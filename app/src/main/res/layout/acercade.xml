@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="10dp"
     android:text="Este programa ha sido desarrollado como
-ejemplo en la asignatura de Soluciones Móviles para
+ejemplo en la asignatura de Soluciones Móviles I para
 demostrar cómo se pueden lanzar nuevas actividades
 desde la actividad principal.">
 </TextView>
